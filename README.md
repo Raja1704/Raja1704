@@ -14,8 +14,8 @@
 - 💬 I like to talk about interesting stuff, just drop me a message! 😉
 - ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way course)
 
-[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)][(https://github.com/Raja1704/)]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/raja1704/)]
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/Raja1704/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raja1704/)
 
 
 ## **Go-to Languages and Tools**
@@ -26,4 +26,3 @@
 
 <hr />
 
-<a href="https://cal.com/just-moh-it/quick-chat"><img src="https://user-images.githubusercontent.com/48997634/226275754-61e8b783-4eea-4e06-8e55-8c09f2826d94.svg" height=80 /></a>
